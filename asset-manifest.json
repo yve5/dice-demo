@@ -1,23 +1,14 @@
 {
   "files": {
-    "main.css": "/dice-demo/static/css/main.2e73c415.chunk.css",
-    "main.js": "/dice-demo/static/js/main.408428fe.chunk.js",
-    "main.js.map": "/dice-demo/static/js/main.408428fe.chunk.js.map",
-    "runtime-main.js": "/dice-demo/static/js/runtime-main.83808e27.js",
-    "runtime-main.js.map": "/dice-demo/static/js/runtime-main.83808e27.js.map",
-    "static/js/2.4f9f3a02.chunk.js": "/dice-demo/static/js/2.4f9f3a02.chunk.js",
-    "static/js/2.4f9f3a02.chunk.js.map": "/dice-demo/static/js/2.4f9f3a02.chunk.js.map",
-    "index.html": "/dice-demo/index.html",
-    "precache-manifest.0f379d24c899b3a24775e4d63ff2743d.js": "/dice-demo/precache-manifest.0f379d24c899b3a24775e4d63ff2743d.js",
-    "service-worker.js": "/dice-demo/service-worker.js",
-    "static/css/main.2e73c415.chunk.css.map": "/dice-demo/static/css/main.2e73c415.chunk.css.map",
-    "static/js/2.4f9f3a02.chunk.js.LICENSE.txt": "/dice-demo/static/js/2.4f9f3a02.chunk.js.LICENSE.txt",
-    "static/media/frame-gradient.svg": "/dice-demo/static/media/frame-gradient.174d5840.svg"
+    "main.css": "/static/css/main.a34547dd.css",
+    "main.js": "/static/js/main.cc2fa594.js",
+    "static/media/frame-gradient.svg": "/static/media/frame-gradient.c090ae721758b16963a600c6f4c67563.svg",
+    "index.html": "/index.html",
+    "main.a34547dd.css.map": "/static/css/main.a34547dd.css.map",
+    "main.cc2fa594.js.map": "/static/js/main.cc2fa594.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.83808e27.js",
-    "static/js/2.4f9f3a02.chunk.js",
-    "static/css/main.2e73c415.chunk.css",
-    "static/js/main.408428fe.chunk.js"
+    "static/css/main.a34547dd.css",
+    "static/js/main.cc2fa594.js"
   ]
 }
